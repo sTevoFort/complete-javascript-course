@@ -1,6 +1,6 @@
 
 
-const myCountry = 'Gibraltar';
+// const myCountry = 'Gibraltar';
 const myContinent = 'Europe';
 let myPopulation = '33,000';
 
